@@ -78,19 +78,19 @@
     "url": "https://www.cedro.org",
     "icon": "https://favicons.githubusercontent.com/www.cedro.org",
     "slug": "cedro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1659,
-    "timeDay": 1631,
-    "timeWeek": 1667,
-    "timeMonth": 1667,
-    "timeYear": 1659,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 1660,
+    "timeDay": 1690,
+    "timeWeek": 1678,
+    "timeMonth": 1670,
+    "timeYear": 1660,
     "dailyMinutesDown": {
-      "2022-09-08": 0
+      "2022-09-08": 28
     }
   }
 ]
