@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 104,
-    "timeWeek": 77,
+    "timeDay": 68,
+    "timeWeek": 74,
     "timeMonth": 81,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 113,
-    "timeWeek": 306,
+    "time": 214,
+    "timeDay": 193,
+    "timeWeek": 312,
     "timeMonth": 214,
-    "timeYear": 215,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 313,
-    "timeDay": 114,
-    "timeWeek": 390,
-    "timeMonth": 348,
-    "timeYear": 313,
+    "time": 314,
+    "timeDay": 432,
+    "timeWeek": 394,
+    "timeMonth": 350,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2022-07-08": 515
     }
@@ -78,16 +78,16 @@
     "url": "https://www.cedro.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cedro.org.ico",
     "slug": "cedro",
-    "status": "up",
-    "uptime": "95.49%",
-    "uptimeDay": "67.58%",
-    "uptimeWeek": "55.41%",
-    "uptimeMonth": "85.42%",
-    "uptimeYear": "95.49%",
+    "status": "down",
+    "uptime": "95.66%",
+    "uptimeDay": "67.85%",
+    "uptimeWeek": "55.78%",
+    "uptimeMonth": "85.96%",
+    "uptimeYear": "95.66%",
     "time": 1728,
-    "timeDay": 1807,
+    "timeDay": 1816,
     "timeWeek": 1815,
-    "timeMonth": 1752,
+    "timeMonth": 1754,
     "timeYear": 1728,
     "dailyMinutesDown": {
       "2022-10-13": 462,
@@ -99,8 +99,7 @@
       "2022-10-07": 591,
       "2022-10-06": 473,
       "2022-10-05": 686,
-      "2022-10-04": 797,
-      "2022-10-03": 2
+      "2022-10-04": 559
     }
   }
 ]
