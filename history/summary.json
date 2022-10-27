@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 682,
-    "timeWeek": 247,
-    "timeMonth": 245,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 9033,
+    "timeWeek": 2389,
+    "timeMonth": 798,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2022-10-27": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -78,15 +80,15 @@
     "url": "https://www.cedro.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cedro.org.ico",
     "slug": "cedro",
-    "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "57.15%",
-    "uptimeWeek": "64.38%",
-    "uptimeMonth": "86.95%",
-    "uptimeYear": "96.45%",
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "64.51%",
+    "uptimeWeek": "64.80%",
+    "uptimeMonth": "87.04%",
+    "uptimeYear": "96.48%",
     "time": 1764,
-    "timeDay": 1769,
-    "timeWeek": 1811,
+    "timeDay": 1754,
+    "timeWeek": 1814,
     "timeMonth": 1801,
     "timeYear": 1764,
     "dailyMinutesDown": {
@@ -101,7 +103,7 @@
       "2022-10-19": 596,
       "2022-10-18": 562,
       "2022-10-17": 523,
-      "2022-10-16": 67
+      "2022-10-16": 26
     }
   }
 ]
