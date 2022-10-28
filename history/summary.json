@@ -42,19 +42,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
-    "time": 317,
-    "timeDay": 183,
-    "timeWeek": 300,
-    "timeMonth": 334,
-    "timeYear": 317,
+    "time": 318,
+    "timeDay": 268,
+    "timeWeek": 316,
+    "timeMonth": 337,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-10-28": 0,
+      "2022-10-28": 21,
       "2022-07-08": 515
     }
   },
@@ -81,12 +81,12 @@
     "url": "https://www.cedro.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cedro.org.ico",
     "slug": "cedro",
-    "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "54.74%",
-    "uptimeWeek": "64.12%",
-    "uptimeMonth": "88.55%",
-    "uptimeYear": "96.93%",
+    "status": "down",
+    "uptime": "96.94%",
+    "uptimeDay": "56.21%",
+    "uptimeWeek": "64.33%",
+    "uptimeMonth": "88.60%",
+    "uptimeYear": "96.94%",
     "time": 1792,
     "timeDay": 2440,
     "timeWeek": 1943,
@@ -102,7 +102,7 @@
       "2022-10-22": 650,
       "2022-10-21": 595,
       "2022-10-20": 809,
-      "2022-10-19": 66
+      "2022-10-19": 45
     }
   }
 ]
