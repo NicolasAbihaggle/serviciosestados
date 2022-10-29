@@ -81,18 +81,19 @@
     "url": "https://www.cedro.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cedro.org.ico",
     "slug": "cedro",
-    "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "56.58%",
-    "uptimeWeek": "64.00%",
-    "uptimeMonth": "88.45%",
-    "uptimeYear": "96.91%",
+    "status": "down",
+    "uptime": "96.92%",
+    "uptimeDay": "64.38%",
+    "uptimeWeek": "65.05%",
+    "uptimeMonth": "88.51%",
+    "uptimeYear": "96.92%",
     "time": 1791,
-    "timeDay": 2398,
+    "timeDay": 2426,
     "timeWeek": 1943,
     "timeMonth": 1833,
     "timeYear": 1791,
     "dailyMinutesDown": {
+      "2022-10-29": 0,
       "2022-10-28": 625,
       "2022-10-27": 581,
       "2022-10-26": 550,
@@ -102,7 +103,7 @@
       "2022-10-22": 650,
       "2022-10-21": 595,
       "2022-10-20": 809,
-      "2022-10-19": 27
+      "2022-10-19": 1
     }
   }
 ]
