@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 175,
-    "timeWeek": 92,
+    "timeDay": 74,
+    "timeWeek": 89,
     "timeMonth": 86,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 135,
-    "timeWeek": 208,
-    "timeMonth": 226,
+    "timeDay": 365,
+    "timeWeek": 222,
+    "timeMonth": 235,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2022-10-27": 18
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.89%",
-    "time": 317,
-    "timeDay": 379,
-    "timeWeek": 286,
-    "timeMonth": 301,
-    "timeYear": 317,
+    "time": 318,
+    "timeDay": 418,
+    "timeWeek": 303,
+    "timeMonth": 307,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2022-12-16": 17,
       "2022-12-08": 17,
@@ -83,16 +83,16 @@
     "url": "https://www.cedro.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cedro.org.ico",
     "slug": "cedro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "58.40%",
+    "uptimeDay": "59.33%",
     "uptimeWeek": "89.45%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "98.21%",
     "time": 1866,
-    "timeDay": 1781,
+    "timeDay": 1792,
     "timeWeek": 1719,
-    "timeMonth": 1712,
+    "timeMonth": 1711,
     "timeYear": 1866,
     "dailyMinutesDown": {
       "2022-12-22": 583,
@@ -104,7 +104,7 @@
       "2022-10-29": 339,
       "2022-10-28": 625,
       "2022-10-27": 581,
-      "2022-10-26": 502
+      "2022-10-26": 482
     }
   }
 ]
