@@ -13,7 +13,7 @@
     "time": 103,
     "timeDay": 95,
     "timeWeek": 122,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 309,
     "timeDay": 127,
     "timeWeek": 171,
-    "timeMonth": 220,
+    "timeMonth": 221,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2022-10-27": 18
@@ -51,7 +51,7 @@
     "time": 315,
     "timeDay": 233,
     "timeWeek": 262,
-    "timeMonth": 288,
+    "timeMonth": 294,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2022-12-16": 17,
@@ -86,13 +86,13 @@
     "status": "up",
     "uptime": "98.57%",
     "uptimeDay": "67.03%",
-    "uptimeWeek": "64.31%",
+    "uptimeWeek": "64.82%",
     "uptimeMonth": "91.69%",
     "uptimeYear": "98.57%",
     "time": 1844,
     "timeDay": 1594,
     "timeWeek": 1786,
-    "timeMonth": 1762,
+    "timeMonth": 1761,
     "timeYear": 1844,
     "dailyMinutesDown": {
       "2022-12-30": 474,
