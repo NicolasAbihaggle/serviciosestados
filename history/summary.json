@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 117,
-    "timeDay": 87,
-    "timeWeek": 103,
+    "timeDay": 102,
+    "timeWeek": 98,
     "timeMonth": 100,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 881,
-    "timeWeek": 390,
-    "timeMonth": 281,
-    "timeYear": 214,
+    "time": 213,
+    "timeDay": 717,
+    "timeWeek": 461,
+    "timeMonth": 303,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 352,
-    "timeDay": 385,
-    "timeWeek": 311,
-    "timeMonth": 306,
+    "timeDay": 105,
+    "timeWeek": 268,
+    "timeMonth": 304,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2024-04-26": 18,
@@ -88,14 +88,14 @@
     "slug": "cedro",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "88.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.44%",
     "time": 1812,
-    "timeDay": 2943,
-    "timeWeek": 2525,
-    "timeMonth": 2412,
+    "timeDay": 1798,
+    "timeWeek": 2570,
+    "timeMonth": 2411,
     "timeYear": 1838,
     "dailyMinutesDown": {
       "2024-12-02": 160,
@@ -118,8 +118,7 @@
       "2024-04-10": 272,
       "2024-03-09": 18,
       "2024-02-26": 324,
-      "2024-02-25": 16,
-      "2023-12-05": 21
+      "2024-02-25": 16
     }
   }
 ]
